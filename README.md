@@ -61,5 +61,5 @@ For a broader technical understanding, here is the list of the topics that will 
 This project is a business-oriented case study that uses a lot of working of NLP concepts that includes text processing and machine learning techniques, involving programming in python.
  
 ###### Resources -
- http://snap.stanford.edu/data/web-Amazon.html
+Dataset -  https://nijianmo.github.io/amazon/index.html 
 
